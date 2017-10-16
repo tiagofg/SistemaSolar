@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/u15193/Desktop/TerraPlana/Assets/Assets/Scenes/SistemaSolar.unity
+  isLoaded: 1
+  isActive: 1
